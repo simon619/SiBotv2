@@ -1,0 +1,20 @@
+# SiBotv2 Requirments
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.4.0
+certifi==2021.10.8
+cffi==1.15.0
+chardet==4.0.0
+DateTime==4.4
+discord.py==1.7.3
+idna==3.3
+multidict==6.0.2
+pycparser==2.21
+PyNaCl==1.4.0
+pytz==2021.3
+six==1.16.0
+typing_extensions==4.0.1
+wincertstore==0.2
+yarl==1.7.2
+zope.interface==5.4.0
+ffmpeg
